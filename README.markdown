@@ -117,9 +117,8 @@ mathango-feedback-system/
 - Emphasizes time management insights via charts, aligning with exam requirements.
 
 **Submission**
-- **Repository**: Public GitHub repository with a random name.
-- **PDFs**: Hosted on a public Google Drive link: [MathonGo PDFs](https://drive.google.com/drive/folders/REPLACE_WITH_YOUR_LINK) (view-only).
-- **Submission**: Via the provided Google Form within the 3-day timeline.
+- **PDFs**: Hosted on a public Google Drive link: [MathonGo PDFs](https://drive.google.com/drive/folders/1COyfUF4Gv0KDCuDKpCTcqo4XRnNfFMLl?usp=sharing ) (view-only).
+
 
 **Troubleshooting**
 - Ensure `GROQ_API_KEY` is set.
