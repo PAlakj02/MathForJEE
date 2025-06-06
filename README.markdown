@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project generates personalized performance feedback reports for students preparing for competitive exams, such as IIT JEE, based on test data in JSON format. Developed for MathonGo, a leading exam preparation platform, it processes student performance metrics, generates detailed feedback using the Groq API, and creates professional PDF reports with tables and charts. The system emphasizes comprehensive feedback on all weak topics, crucial for exam preparation, and is fully automated for scalability.
+This project generates personalized performance feedback reports for students preparing for competitive exams, such as IIT JEE, based on test data in JSON format. Developed for MathonGo, a leading exam preparation platform, it processes student performance metrics, generates detailed feedback using the Groq API, and creates professional PDF reports with tables and charts. The system emphasizes comprehensive feedback on all weak topics, crucial for exam preparation.
 
 **Tech Stack**
 
@@ -111,10 +111,6 @@ mathango-feedback-system/
 - Implements rate limiting (5-second delay) for Groq API calls.
 - Handles errors for missing files, invalid inputs, or API failures.
 
-**Notes for Competitive Exam Preparation**
-- Includes all weak chapters in feedback and PDFs, critical for exams like IIT JEE.
-- Maintains an encouraging, growth-focused tone to motivate students.
-- Emphasizes time management insights via charts, aligning with exam requirements.
 
 **Submission**
 - **PDFs**: Hosted on a public Google Drive link: [MathonGo PDFs](https://drive.google.com/drive/folders/1COyfUF4Gv0KDCuDKpCTcqo4XRnNfFMLl?usp=sharing ) (view-only).
@@ -129,7 +125,7 @@ Below is a sample time vs. accuracy chart generated for a student:
 - Verify input JSON files in `data/` match the expected format.
 - Check `output/` for generated files.
 - For path issues, update `BASE_PATH` in all `.py` files.
-- Ensure `mathongo_logo.jpeg` is present in the project root.
+
 
 **Contact**
 For issues, refer to [x.ai/api](https://x.ai/api) for API-related queries.
