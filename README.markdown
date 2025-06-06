@@ -119,6 +119,10 @@ mathango-feedback-system/
 **Submission**
 - **PDFs**: Hosted on a public Google Drive link: [MathonGo PDFs](https://drive.google.com/drive/folders/1COyfUF4Gv0KDCuDKpCTcqo4XRnNfFMLl?usp=sharing ) (view-only).
 
+**Sample Output**
+Below is a sample time vs. accuracy chart generated for a student:
+
+![Sample Chart](https://github.com/PAlakj02/MathForJEE/blob/5075cc99d7d541684e483f586e31faffc6ed5e5b/data/chart_1.png)
 
 **Troubleshooting**
 - Ensure `GROQ_API_KEY` is set.
